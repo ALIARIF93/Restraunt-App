@@ -107,6 +107,6 @@ body {
 }
 .menu-item-info-text {
   padding-top: 2rem;
-  font-size: 1.8rem;
+  font-size: 3rem;
   color: var(--item-description-color);
 }
