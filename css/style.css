@@ -42,6 +42,7 @@ body {
   align-items: center;
   list-style-type: none;
   margin-bottom: 6rem;
+   padding: 0;
 }
 
 .menu ul a {
