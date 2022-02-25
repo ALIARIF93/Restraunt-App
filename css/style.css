@@ -62,6 +62,9 @@ body {
   background-color: var(--orange-color);
   color: var(--white-color);
 }
+.menu ul a:focus {
+  outline: none;
+}
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 8fr 1fr;
