@@ -92,6 +92,7 @@ body {
   height: 15rem;
 
   border: 0.5rem solid var(--orange-color);
+  background-color: var(--orange-color);
   border-radius: 10px;
   margin-right: 2rem;
 }
